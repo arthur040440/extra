@@ -1,0 +1,8 @@
+  <provider
+            android:name=".contentprovider.MyContentProvider"
+            android:authorities="com.example.testpproject"
+            android:enabled="true"
+            android:exported="true">
+
+
+        </provider>
